@@ -80,13 +80,12 @@ My Personal Chat👇
  <a href="https://wa.me/+916909137213"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
 </p>
 
-My Whatsapp Group👇
-<p align="center">
- <a href="https://chat.whatsapp.com/G3a3AQndqS5J45eD7zznXF"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
-</p>
+My Whatsapp 🗿
+https://wa.me//+6283869803330
 
 * [`My Youtube Channel`](https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A)
 
 # Thanks To
 * [`Baileys`](https://github.com/adiwajshing/Baileys)
 * [`Xeon`](https://github.com/DGXeon)
+* [`VERDI BOTZ`](https://github.com/VERDIBOTZ1)
