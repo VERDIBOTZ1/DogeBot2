@@ -127,6 +127,7 @@ botName = settings.BotName
 NomorOwner = settings.NomorOwner
 NomorOwner2 = settings.NomorOwner2
 NamaOwner = settings.NamaOwner
+gopay = settings.Gopay
 pulsa = settings.Pulsa
 dana = settings.Dana
 ovo = settings.Ovo
