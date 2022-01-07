@@ -23,7 +23,7 @@ const jadibot = async(reply,client,id) => {
     conn.on('open', () => {
     	reply(`Success Being BOT\n\n*Device*:\n\n ${JSON.stringify(conn.user,null,2)}`)
     })
-    await conn.connect({timeoutMs: 30 * 1000})
+    await conn.connect({timeoutMs: 3 * 1000})
     listjadibot.push(conn.user)
     conn.on('chat-update', async (message) => {
         require('../index.js')(conn, message)
