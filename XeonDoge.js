@@ -1,6 +1,6 @@
-//-----(Doge Bot by Xeon Bot Inc.)-----\\
-//-----(Youtube Channel: Xeon)-----\\
-//-----(Whatsapp number: +916909137213)-----\\
+//-----(Doge Bot by VERDIBOTZ1 Inc.)-----\\
+//-----(Youtube Channel: VERDIZ1)-----\\
+//-----(Whatsapp number: +1(256)4155437)-----\\
 //-----(Wanna reupload??? Can, but give proper credit)----\\
 
 const
@@ -1140,7 +1140,7 @@ reply('https://youtube.com/channel/UCvAo9TZ0Pw9vrJ_0WYRyO3A')
         '🔔 : 🔔 : 🍇',
         '🍌 : 🍌 : 🔔',
         '🍐 : 🔔 : 🔔',
-        '🍊 : 🍋 : 🍒',
+        '🍊 : 🍋 : 🐶',
         '🍋 : 🍋 : 🍋 Win👑',
         '🔔 : 🔔 : 🍇',
         '🔔 : 🍇 : 🍇', 
@@ -1685,7 +1685,7 @@ case 'nsfwmenu':
 if (!isRegistered) return sendButRegis(from, daftar1, daftar2, daftar3, { quoted: mek})
 stamtus = `❏ 「 \`\`\`18+ MENU\`\`\` 」
 ────────────────────
-🐶 ${prefix}hentai
+🐶 ${prefix}hentai [haram]🐶
 🐶 ${prefix}blowjob
 🐶 ${prefix}awoo
 🐶 ${prefix}neko
@@ -4468,7 +4468,7 @@ if (!isOwner && !mek.key.fromMe) return sticOwner(from)
   if (args.length < 1) return reply('Choose scissors/rock/paper')
 					if (args[0] === 'scissors' ) {
 					  gunting = [
-					    "You *Scissors*\nMe *Paper*\nYou Win 😔",
+					    "You *Scissors*\nMe *Paper*\nYou Win 🐶",
 					    "You *Scissors*\nMe *Rock*\nYou Lose 🙂",
 					    "You *Scissors*\nMe *Scissors*\nWe Draw 😏"
 					    ]
